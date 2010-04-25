@@ -1,4 +1,4 @@
-Revision history for Task::WebGUI
+Revision history for {{$dist->name}}
 
 {{$NEXT}}
     First version
